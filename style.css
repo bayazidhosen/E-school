@@ -1,0 +1,168 @@
+.banner{
+    background-color: #F0FFF0;
+}
+.navbar-nav, .nav-ber {
+    background: #F0FFF0;
+}
+body{
+    margin: none;
+}
+.logo{
+    height: 59px;
+    width: 350px;
+    padding:0px 0px 0px 150px ;
+}
+.gap-btwn-form-items {
+    margin-bottom: 15px;
+}
+.banner-items-1 {
+    margin-bottom: px;
+    padding: 0px 0px 0px 200px;
+}
+.banner-items{
+    padding: 0px 200px 0px 0px ;
+}
+}
+span{
+    color: green;
+}
+.top-text{
+    font-weight: bold;
+    
+}
+.banner h6 {
+    margin: 178px 0 0 3px;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #FD511A;
+}
+
+.banner h1 {
+    width: 405px;
+    height: 140px;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+
+.banner p {
+    width: 403px;
+    height: 85px;
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
+
+.banner img {
+    width: 554px;
+    height: 346px;
+    margin-top: 157px;
+    margin-bottom: 73px;
+}
+.nav-ber{
+    padding-right: 150px;
+}
+.btn{
+    
+    font-size: 16px;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 33px;
+    background: #21B573;
+}
+.card-img-top{
+ height: 100px;
+ width: 100px;
+}
+.category-bg{
+    width: 250px;
+    height: 100px;
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.categories{
+    margin-top: 42px;
+}
+.category-items-padding {
+    padding: 20px 0 29px 0;
+}
+.category-bg:hover {
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.text-beside-icon {
+    margin: 15px 5px;
+    font-size: 12px;
+    font-weight: 500;
+    color: #585859;
+}
+.course-box {
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.course-icons {
+    width: 15px;
+    height: 15px;
+}
+
+.course-icon-margin1 {
+    margin-left: 20px;
+}
+.card-img-top {
+    padding: 20px;
+    border-radius: 20px;
+}
+.course-box:hover{
+    background-color: azure;
+}
+#book, #student, #test, #students{
+    width: 130px;
+    height: 130px;
+}
+#img1, #img2, #img3{
+    width: 350px;
+    height: 250px;
+}
+.online, .testi{
+    margin: 70px;
+}
+.man{
+    height: 250px;
+    width: 650px;
+    padding: 0 0 0 300px;
+}
+footer{
+    background-color: #282531;
+    margin-top: 100px;
+}
+.text-p{
+    padding: 0 200px 0 0px;
+}.footer-brief{
+    margin-top: 48px;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 30px;
+}
+.list-margin,.footer-x{
+    margin-top: 50px;
+}
+.list-heading{
+    color: #FFFFFF;
+    font-size: 20px;
+    list-style: none;
+}
+.list-courses{
+    color: #FFFFFF;
+    list-style: none;
+}
+.footer-x{
+    color: #FFFFFF;
+    font-size: 15px;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
